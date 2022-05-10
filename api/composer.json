@@ -1,0 +1,19 @@
+{
+  "name": "starinc/flip",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Flip\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "SuperSonic",
+      "email": "supersonic@livemail.tw"
+    }
+  ],
+  "require": {
+    "ext-pdo": "*"
+  }
+}
