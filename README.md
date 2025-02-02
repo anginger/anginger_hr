@@ -1,6 +1,6 @@
-# FlipHR
+# Anginger HR
 
-FlipHR 是一個專注於為臺灣中小企業所設計的人力資源管理系統。
+Anginger HR 是一個專注於為臺灣中小企業所設計的人力資源管理系統。
 
 ## Default User
 
